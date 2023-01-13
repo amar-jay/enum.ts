@@ -1,19 +1,22 @@
 {
   "name": "emum_ts",
   "version": "1.0.0",
-  "description": "",
+   "author": "Amar Jay <me@themanan.me>",
+  "description": "A concise and efficient implementation of enums in typescript.",
   "main": "index.ts",
+  "license": "MIT",
+  "repository": "amar-jay/enum.ts",
   "scripts": {
     "test": "tsx ./examples/index.ts"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "typescript": "^4.9.4"
-  },
+  "files": [
+		"index.ts"
+	],
+  "keywords": ["enum", "typescript", "ts", "enums", "typescript enum", "ts enum", "typescript enums", "ts enums"],
+  "author": "amar-jay",
+  "license": "MIT",
   "devDependencies": {
-    "@types/node": "^18.11.18",
-    "tsx": "^3.12.2"
+    "@types/node": "^18.11.18"
+    "typescript": "^4.9.4"
   }
 }
