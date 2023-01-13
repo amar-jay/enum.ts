@@ -1,5 +1,5 @@
 {
-  "name": "emum_ts",
+  "name": "enums.ts",
   "version": "1.0.0",
   "author": "Amar Jay <me@themanan.me>",
   "description": "A concise and efficient implementation of enums in typescript.",
